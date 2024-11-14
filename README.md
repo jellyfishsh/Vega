@@ -1,2 +1,2 @@
 # Vega
-A Galaga shooter bullet-hell game
+A Galaga shooter bullet-hell rhythm game
